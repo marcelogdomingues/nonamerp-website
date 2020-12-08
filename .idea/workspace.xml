@@ -57,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607469745459</updated>
       <workItem from="1607469747059" duration="1292000" />
+      <workItem from="1607471168325" duration="393000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1607469850401</created>
@@ -86,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607470693907</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="First commit">
+      <created>1607471184097</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607471184097</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,16 +110,18 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="872" y="420" key="Vcs.Push.Dialog.v2" timestamp="1607470696188">
+    <state x="872" y="420" key="Vcs.Push.Dialog.v2" timestamp="1607471186896">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="420" key="Vcs.Push.Dialog.v2/2560.-309.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1607470696188" />
+    <state x="872" y="420" key="Vcs.Push.Dialog.v2/2560.-309.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1607471186896" />
     <state x="1063" y="434" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1607469968332">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
